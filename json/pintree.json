@@ -24,6 +24,27 @@
         "title": "图床",
         "icon": "https://logo.clearbit.com/png.luoxi.me",
         "url": "https://png.luoxi.me/"
+      },
+      {
+        "type": "folder",
+        "addDate": 1758597685935,
+        "title": "摩速配",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1758597692742,
+            "title": "TikTok Shop Seller Log In | Thailand",
+            "icon": "https://logo.clearbit.com/seller-th.tiktok.com",
+            "url": "https://seller-th.tiktok.com/account/login?sell_on_tt=1&shop_region=TH&tab=level_board&register_referrer=https%3A%2F%2Fseller-th.tiktok.com%2Fhomepage%3Fsell_on_tt%3D1%26shop_region%3DTH%26tab%3Dlevel_board&redirect_url=https%3A%2F%2Fseller-th.tiktok.com%2Fsea-growth%2Fgrowth%3Fsell_on_tt%3D1%26shop_region%3DTH%26tab%3Dlevel_board"
+          },
+          {
+            "type": "link",
+            "addDate": 1758597790160,
+            "title": "BigSeller官网—登录中心",
+            "icon": "https://logo.clearbit.com/www.bigseller.pro",
+            "url": "https://www.bigseller.pro/zh_CN/login.htm"
+          }
+        ]
       }
     ]
   }
