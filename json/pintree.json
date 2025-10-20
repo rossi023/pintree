@@ -26,6 +26,13 @@
         "url": "https://png.luoxi.me/"
       },
       {
+        "type": "link",
+        "addDate": 1760774301517,
+        "title": "网罗音乐",
+        "icon": "https://logo.clearbit.com/music.luoxi.me",
+        "url": "https://music.luoxi.me/"
+      },
+      {
         "type": "folder",
         "addDate": 1758597685935,
         "title": "摩速配",
