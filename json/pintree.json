@@ -33,6 +33,20 @@
         "url": "https://music.luoxi.me/"
       },
       {
+        "type": "link",
+        "addDate": 1761122210777,
+        "title": "中转站",
+        "icon": "https://logo.clearbit.com/luoxi.xin",
+        "url": "http://luoxi.xin:5530/"
+      },
+      {
+        "type": "link",
+        "addDate": 1761615166551,
+        "title": "网罗电影 - 免费在线视频搜索与观看平台",
+        "icon": "https://logo.clearbit.com/dy.luoxi.me",
+        "url": "https://dy.luoxi.me/"
+      },
+      {
         "type": "folder",
         "addDate": 1758597685935,
         "title": "摩速配",
